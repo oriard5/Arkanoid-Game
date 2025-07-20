@@ -23,13 +23,18 @@ This is a Java-based **Arkanoid (Breakout)** game developed using **Object-Orien
 
 ---
 
+## 📦 Setup
+Download the project folder from the ass6 directory.
+
+---
+
 ## 📁 Project Structure
 
 ass6/  
 ├── src/              # Java source files  
 ├── bin/              # Output directory for compiled .class files  
-├── biuoop-1.4.jar    # External GUI/input library  
-└── README.md         # Project documentation (this file)
+└── biuoop-1.4.jar    # External GUI/input library  
+
 
 
 ---
