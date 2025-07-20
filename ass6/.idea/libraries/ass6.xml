@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ass6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ass6/biuoop-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ass6/ass6.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
